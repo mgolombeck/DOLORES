@@ -1,5 +1,6 @@
 # DOLORES
 Apple //e Double LORES library
+
 Purpose: DOLORES is an extension containing functions that enable
 drawing on the Double LORES screen of an Apple //e enhanced or better.
 This library should be included in any source code project in order to
